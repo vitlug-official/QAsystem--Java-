@@ -1,6 +1,6 @@
 #README file for the QA System (Java)
 
-INSTRUCTIONS TO MAKE PROGRAM WORK 
+Instructions to make program work
 ----------------------------------
 To make the POS Tagger work Stanford NLP library is needed.
 Refer: http://nlp.stanford.edu/software/tagger.shtml to download the tagger library
