@@ -11,8 +11,13 @@ http://www.galalaly.me/index.php/2011/05/tagging-text-with-stanford-pos-tagger-i
 Update1: POS Tagger
 --------------------
 Source file: tag.java
+
 ->Seperates the noun from the source string
+
 ->Source string is a variable 'String sample'
+
 ->The tagging is done according to Penn Treebank tag set (enclosed in ptts.txt)
+
 ->Currently have stored the Part of speech to select in 'String[] select' (only nouns)
+
 
